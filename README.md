@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: Hi! Im Ryker, Im a second year CS Major.
-- Person 2: one sentence about you!
+- Person 2: I am Mark, and am a third year CS major.
 - Person 3: one sentence about you!
 
 ## References
