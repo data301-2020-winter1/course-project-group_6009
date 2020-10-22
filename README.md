@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311300&assignment_repo_type=GroupAssignmentRepo)
 # Group 6009 - Apple Stock With A Twist
 
-- Your title can change over time.
+
 
 ## Milestones
 
@@ -9,11 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Our topic is being able to see if we can use Apple's stock values from 1980-2019 to predict today's stock value within a reasonable marhgin of error. This data was uploaded by a user on Kaggle.com. 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The data consists of the date of the stock, opening/highest/lowest/closing stocks, the adjustted close, and tokens vol for each date. Each day is recorded and inputted into a given column with the previous attributes.
 
 ## Team Members
 
@@ -23,4 +23,4 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+https://www.kaggle.com/prasoonkottarathil/apple-lifetime-stocks-dataset
