@@ -1,1 +1,4 @@
-This will be for our raw data set
+**Raw Data Set**
+--
+
+*This is our raw data set of Apple stock prices*
