@@ -24,3 +24,7 @@ The data consists of the date of the stock, opening/highest/lowest/closing stock
 ## References
 
 https://www.kaggle.com/prasoonkottarathil/apple-lifetime-stocks-dataset
+
+## Presentation
+
+https://www.youtube.com/watch?v=1z9Bx0wCeQE&ab_channel=MarkBehnke
